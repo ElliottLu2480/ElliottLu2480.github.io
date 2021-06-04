@@ -1,0 +1,77 @@
+<!-- PAGE HEADER -->
+        <header>
+            <hl><span class="editor-note"></span>
+            <em>Im trying my best to figure this out</em>
+            <strong>Help Please</strong>
+            <p>A short phrase</p>
+            <p>waistcoatsatorial</p>
+            <a href="waistcoatsartorial.pdf">Visit waistcoatsartorial.pdf</a>
+            <hl>
+        </header>
+<!-- NAVIGATION BAR -->
+        <nav>
+            <img>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <p><p>
+        </nav>
+<!-- MAIN CONTENT AREA -->
+        <main>
+    <!-- SECTION -->
+            <section>
+        <!-- ARTICLE 1-->
+               <article>
+                   <h2></h2>
+                   <p></p>
+                   <p></p>
+                   <p></P>
+               </article>
+        <!-- ARTICLE 2-->
+               <article>
+                   <h2></h2>
+                   <p></p>
+                   <p></P>
+                   <blockquote>
+                       <p></p>
+                   </blockquote>
+                   <p></P>
+                </article>
+        <!-- ARTICLE 3 -->
+                <article>
+                    <h2></h2>
+                    <p></p>
+                    <p></p>
+                    <p></p>
+                <article>
+           </section>
+   <!-- ASIDE -->
+           <aside>
+           <!-- FIGURE 1 -->
+                   <figure>
+                       <imb>
+                       <figcaption></figcaption>
+                   </figure>
+           <!-- FIGURE 2 -->
+                   <figure>
+                       <img>
+                       <figcaption></figcaption>
+                   </figure>
+               </aside>
+           </main>
+   <!-- FOOTER -->
+           <footer>
+               <p></p>
+               <p></p>
+           </footer>
+
+
+
+        
+
+        
